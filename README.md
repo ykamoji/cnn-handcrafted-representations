@@ -17,3 +17,4 @@
 <hr/>
 
 ![Analysis 3](https://github.com/ykamoji/cnn-handcrafted-representations/blob/main/img_refs/analysis_3.png?raw=true)
+![Analysis 4](https://github.com/ykamoji/cnn-handcrafted-representations/blob/main/img_refs/analysis_4.png?raw=true)
