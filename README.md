@@ -7,6 +7,7 @@
 <hr/>
 
 ![Analysis 1](https://github.com/ykamoji/cnn-handcrafted-representations/blob/main/img_refs/analysis_1.png?raw=true)
+![Analysis 2](https://github.com/ykamoji/cnn-handcrafted-representations/blob/main/img_refs/analysis_2.png?raw=true)
 
 <hr/>
 
