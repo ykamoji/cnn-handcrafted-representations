@@ -14,3 +14,6 @@
 ![Question 6](https://github.com/ykamoji/cnn-handcrafted-representations/blob/main/img_refs/question_6.png?raw=true)
 ![Question 7](https://github.com/ykamoji/cnn-handcrafted-representations/blob/main/img_refs/question_7.png?raw=true)
 
+<hr/>
+
+![Analysis 3](https://github.com/ykamoji/cnn-handcrafted-representations/blob/main/img_refs/analysis_3.png?raw=true)
